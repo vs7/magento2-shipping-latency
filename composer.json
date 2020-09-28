@@ -1,5 +1,5 @@
 {
-  "name": "snowdog/module-shipping-latency",
+  "name": "vs7/module-shipping-latency",
   "description": "Module adds shipping latency",
   "license": "MIT",
   "type": "magento2-module",
